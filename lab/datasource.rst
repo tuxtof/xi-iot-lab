@@ -51,6 +51,7 @@ Page 3 is where we specify metadata that will identify this feed.
 
 17. Finally, click **Add**.
 
-Adding the Nutanix Xi IoT data source is now complete.
+Adding the Nutanix Xi IoT Data Source is now complete.
 
+.. _Dashboard: https://iot.nutanix.com/
 .. _RTSP: https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol

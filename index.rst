@@ -16,15 +16,17 @@
 
   .. example/index
   lab/intro
+  lab/terminology
   lab/edge
+  lab/category
   lab/datasource
   lab/cloud
-  lab/runtime
-  lab/registry
+  lab/container_registry
+  lab/project
   lab/functions
-  lab/application
-  lab/freeform
-  
+  lab/pipelines
+  lab/deploy
+
 .. _getting_started:
 
 Getting Started

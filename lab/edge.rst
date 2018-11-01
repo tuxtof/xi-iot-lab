@@ -18,7 +18,7 @@ For the Nutanix Xi IoT lab to proceed, each lab attendee will configure a connec
 .. figure:: ../images/getting_started_add_edge.png
 
 3. Give your edge device a meaningful name, e.g. **iot-lab-<your_initials>**.  For Jane Doe, you could use **iot-lab-janed**.
-4. Enter the provided edge device's serial number in the format **xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx**
+4. Enter the provided edge device's serial number in the format **XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX**.  Please make sure the serial is entered using **upper-case** characters.
 5. Enter the provided edge device's IP address.
 6. Enter the lab network's subnet mask (**255.255.255.0**).
 7. Enter the lab network's gateway (**0.0.0.0**).
@@ -33,7 +33,8 @@ Adding the Nutanix Xi IoT edge device is now complete.
 
 8. To verify the edge device has been added successfully and is available for use, wait until there is a green "check mark" next to the edge device's name in the **Getting Started** group, or check for the green online symbol next to the edge device's name in the edge list.
 
-**Note**: After adding a new edge device, it will take some time before the device is online and usable.  After being added, the edge device will 
+**Note**: After adding a new edge device, it will take some time before the device is online and usable (typically 5-10 minutes).
+
+Adding the Nutanix Xi IoT Edge Device is now complete.
 
 .. _Dashboard: https://iot.nutanix.com/
-
