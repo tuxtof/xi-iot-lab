@@ -1,14 +1,13 @@
 .. _intro:
 
-------------
+************
 Introduction
-------------
+************
 
 From the Xi IoT product page ...
 
 **Part of the Nutanix Xi family, Xi IoT is an internet of things and edge computing platform that simplifies edge computing and cloud infrastructure management, enabling users to quickly build and deploy intelligent applications across a public or private cloud infrastructure. Xi IoT consists of Xi Edge, an application infrastructure, project and administrator users, and cloud and data pipelines to help converge edge and cloud data.**
 
--------------------------------
 Simplify IoT and Edge Computing
 -------------------------------
 
@@ -22,9 +21,8 @@ Of course, Nutanix Xi IoT has been developed to deliver the experience you've co
 
 By eliminating complexity we can accelerate deployments and elevate developers to focus on the business logic so critical for the success of IoT applications and services.
 
---------
 This lab
---------
+~~~~~~~~
 
 Today's lab is broken into two parts.
 
