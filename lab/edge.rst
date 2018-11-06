@@ -1,8 +1,8 @@
 .. _edge:
 
-------------
+************
 Edge Devices
-------------
+************
 
 For the Nutanix Xi IoT lab to proceed, each lab attendee will configure a connection to a pre-staged edge device.
 

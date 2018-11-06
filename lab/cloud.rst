@@ -1,8 +1,8 @@
 .. _cloud:
 
--------------
+*************
 Cloud Profile
--------------
+*************
 
 In this lab, adding a Cloud Profile allows us to use AWS, if required, to act as a destination or output for the results of a data pipeline.
 

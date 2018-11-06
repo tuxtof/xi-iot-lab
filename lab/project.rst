@@ -1,8 +1,8 @@
 .. _project:
 
---------
+********
 Projects
---------
+********
 
 For our lab, the main Project is going to group together our edge, data source and project users, as well as data made up of applications, data streams, scripts and runtime environments.
 

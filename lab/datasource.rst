@@ -1,8 +1,8 @@
 .. _datasource:
 
-------------
+************
 Data Sources
-------------
+************
 
 For the Nutanix Xi IoT lab to proceed, and now that your edge device is online, you can add your camera as a Data Source.
 

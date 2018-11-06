@@ -1,8 +1,8 @@
 .. _registry:
 
---------------------------
+**************************
 Elastic Container Registry
---------------------------
+**************************
 
 Because we are going to deploy an application via Docker container, we must now create a connection to the Docker container registry hosting that application.
 

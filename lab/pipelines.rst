@@ -1,8 +1,8 @@
 .. _pipelines:
 
------------------
+*****************
 Pipelines - Intro
------------------
+*****************
 
 .. raw:: html
 
@@ -16,7 +16,6 @@ A Data Pipeline is a path for data that includes input, processing, and output b
 - Processing | Transformation - Code block such as a script to process or transform input data. Scripts are available in the Scripts library or can be uploaded to the library.
 - Output - Publish data to the cloud or cloud data service (such as AWS Simple Queue Service) at the edge.
 
---------------------
 Pipelines - Creation
 --------------------
 
@@ -25,7 +24,7 @@ FaceFeed uses two data pipelines.  In Nutanix Xi IoT data pipelines can be used 
 For FaceFeed, we will transform pictures (video feed) into face IDs by using machine learning.
 
 Pipeline #1 - "faceregister"
-============================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Summary:
 
@@ -68,7 +67,7 @@ The final **faceregister** Data Pipeline, when created correctly, will look as s
 .. figure:: ../images/create_dp_faceregister_final.png
 
 Pipeline #2 - "facerecognitionlivefeed"
-=======================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Summary:
 

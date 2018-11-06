@@ -1,8 +1,8 @@
 .. _category:
 
-----------
+**********
 Categories
-----------
+**********
 
 For our lab, a category will be used to tag your camera data source.  The data source will be added in the next step.
 

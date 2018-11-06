@@ -1,8 +1,8 @@
 .. _app:
 
-------------
+************
 FaceFeed App
-------------
+************
 
 The final step in the lab to deploy the FaceFeed app itself.  This is done by deploying a pre-existing YAML specification prepared by the Nutanix Xi IoT team.
 

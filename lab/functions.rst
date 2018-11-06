@@ -1,8 +1,8 @@
 .. _functions:
 
----------
+*********
 Functions
----------
+*********
 
 The FaceFeed application utilises functions within Data Pipelines to transform the incoming data (video feed) and draw inference (Face IDs).
 
