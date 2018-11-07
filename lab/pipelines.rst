@@ -1,8 +1,11 @@
 .. _pipelines:
 
-*****************
-Pipelines - Intro
-*****************
+**************
+Data Pipelines
+**************
+
+Introduction
+------------
 
 .. raw:: html
 
@@ -43,8 +46,8 @@ This data pipeline will source the pictures from your laptop’s web-cam (after 
 
 5. Click **Next**.
 6. Within the **Input** section, click **Add Data Source** and select **Data Source**.
-7. From the Data Sources dropdown list, select the **Data Type** category created earlier.
-8. Set the field to **Custom**.
+7. From the **Categories** dropdown list, select the **Camera Type** category created earlier.
+8. Set the field to **Face Registration**.
 
 .. figure:: ../images/create_dp_select_input.png
 
@@ -57,12 +60,14 @@ This data pipeline will source the pictures from your laptop’s web-cam (after 
 
 13. Within the **Output** section, click **Add Destination**.
 14. From the dropdown list, select **Edge**.
-15. Enter the Name as **faceregister** (exactly as shown, *including case-sensititivity*).
-16. Set the Endpoint Type to **ElasticSearch**.
+15. Set the Endpoint Type to **ElasticSearch**.
+16. Enter the Name as **datastream-faceregister** (exactly as shown, *including case-sensititivity*).
 
 .. figure:: ../images/create_dp_select_output.png
 
-The final **faceregister** Data Pipeline, when created correctly, will look as shown in the screenshot below.
+The final **faceregister** Data Pipeline, before clicking the **Create** button, will look as shown below.  Note that your pipeline will be named **faceregister**, although the screenshots shows **faceregisterv2**.
+
+17. Click **Create**.
 
 .. figure:: ../images/create_dp_faceregister_final.png
 
@@ -88,8 +93,8 @@ Application Container for Facefeed will show the Known vs Unknown faces dependin
 
 5. Click **Next**.
 6. Within the **Input** section, click **Add Data Source** and select **Data Source**.
-7. From the Data Sources dropdown list, select the **Data Type** category created earlier.
-8. Set the field to **Image**.
+7. From the Data Sources dropdown list, select the **Camera Type** category created earlier.
+8. Set the field to **Facial Recognition**.
 
 .. figure:: ../images/create_dp_select_input_image.png
 
@@ -108,16 +113,16 @@ Application Container for Facefeed will show the Known vs Unknown faces dependin
 
 19. Within the **Output** section, click **Add Destination**.
 20. From the dropdown list, select **Edge**.
-21. Enter the Name as **facerecognitionlivefeed** (exactly as shown, *including case-sensititivity*).
-22. Set the Endpoint Type to **ElasticSearch**.
+21. Set the Endpoint Type to **ElasticSearch**.
+22. Enter the Name as **datastream-facerecognitionlivefeed** (exactly as shown, *including case-sensititivity*).
 
 .. figure:: ../images/create_dp_select_output_2.png
 
 Note: Your associated edge device list will be different.
 
-The final **facerecognitionlivefeed** Data Pipeline, when created correctly, will look as shown in the screenshot below.
+The final **facerecognitionlivefeed** Data Pipeline, before clicking the **Create** button, will look as shown below.  Note that your pipeline will be named **facerecognitionlivefeed**, although the screenshots shows **facerecognitionlivefeedv2**.
 
-.. figure:: ../images/create_dp_faceregister_final_2.png
+.. figure:: ../images/create_dp_facialrecognition_final.png
 
 Adding the Nutanix Xi IoT Data Pipelines is now complete.
 

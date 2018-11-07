@@ -40,12 +40,14 @@ Page 2 of the add data sources process is where we can specify device-specific s
 13. Give the field a meaningful name, e.g. **video-feed-<your_initials>**.  For Jane Doe, you could use **video-feed-janed**.
 14. In the field for **RTSP URL**, enter **<video-feed-url>**, click the blue check mark button and click **Next**.
 
+**Note**: For this lab, please set **<video-feed-url>** to **/unicast**.
+
 .. figure:: ../images/add_data_source_page2.png
 
 Page 3 is where we specify metadata that will identify this feed.
 
-15. Set the **Attribute** to **Data Type**.
-16. Set the and the corresponding data type field to **Image**.
+15. Set the **Attribute** to **Camera Type**.
+16. Set the and the corresponding data type field to **Facial Recognition**.
 
 .. figure:: ../images/add_data_source_page3.png
 

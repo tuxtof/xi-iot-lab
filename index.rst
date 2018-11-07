@@ -26,6 +26,7 @@
   lab/functions
   lab/pipelines
   lab/deploy
+  lab/verify
 
 .. _getting_started:
 

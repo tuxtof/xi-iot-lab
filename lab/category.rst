@@ -16,9 +16,11 @@ For our lab, a category will be used to tag your camera data source.  The data s
 .. figure:: ../images/getting_started_categories.png
 
 3. Enter a friendly name for the category.  The name should identify the location or provide information about the items that will belong to that category.  For our lab, please name your category **Camera Type**.
-4. Click **Add Value** and enter **Facial Recognication**.
+4. Click **Add Value** and enter **Facial Recognition**.
 5. Click the check mark next to **Facial Recognition**.
-6. Click **Create**.
+6. Click **Add Value** and enter **Face Registration**.
+7. Click the check mark next to **Face Registration**.
+8. Click **Create**.
 
 .. figure:: ../images/add_category.png
 
