@@ -39,7 +39,7 @@ This data pipeline will source the pictures from your laptop’s web-cam (after 
 
 .. figure:: ../images/hamburger.png
 
-3. Click **Create**.
+3. Click **Create** and set the pipeline name to **faceregister**.
 4. From the dropdown list provided, select the **FaceFeed** application created earlier.
 
 .. figure:: ../images/create_dp_select_project.png
@@ -53,7 +53,7 @@ This data pipeline will source the pictures from your laptop’s web-cam (after 
 
 9. Within the **Transformation** section, click **Add Function**.
 10. From the dropdown list, select **facerecognition**.  Remember that these function names match the Tensorflow Python functions created earlier.
-11. Click **Add Function** again.
+11. Click the **plus** button to add another function.
 12. From the dropdown list, select **face_register**.
 
 .. figure:: ../images/create_dp_select_transformations.png
@@ -61,7 +61,7 @@ This data pipeline will source the pictures from your laptop’s web-cam (after 
 13. Within the **Output** section, click **Add Destination**.
 14. From the dropdown list, select **Edge**.
 15. Set the Endpoint Type to **ElasticSearch**.
-16. Enter the Name as **datastream-faceregister** (exactly as shown, *including case-sensititivity*).
+16. Enter the **Endpoint Name** as **datastream-faceregister** (exactly as shown, *including case-sensititivity*).
 
 .. figure:: ../images/create_dp_select_output.png
 
@@ -86,7 +86,7 @@ Application Container for Facefeed will show the Known vs Unknown faces dependin
 
 .. figure:: ../images/hamburger.png
 
-3. Click **Create**.
+3. Click **Create** and set the pipeline name to **facerecognitionlivefeed**.
 4. From the dropdown list provided, select the **FaceFeed** application created earlier.
 
 .. figure:: ../images/create_dp_select_project.png
@@ -96,17 +96,17 @@ Application Container for Facefeed will show the Known vs Unknown faces dependin
 7. From the Data Sources dropdown list, select the **Camera Type** category created earlier.
 8. Set the field to **Facial Recognition**.
 
-.. figure:: ../images/create_dp_select_input_image.png
+.. figure:: ../images/create_dp_select_input_2.png
 
 9. Within the **Transformation** section, click **Add Function**.
 10. From the dropdown list, select **raw_to_jpeg**.
 11. Check the Enable box next to **Sampling Interval**.
 12. Set the Sampling Interval to **1 Second**.
-13. Click **Add Function** again.
+13. Click the **plus** button to add another function.
 14. From the dropdown list, select **facerecognition**.
-15. Click **Add Function** again.
+15. Click the **plus** button to add another function.
 16. From the dropdown list, select **facematch**.
-17. Click **Add Function** again.
+17. Click the **plus** button to add another function.
 18. From the dropdown list, select **aggregatefeed**.
 
 .. figure:: ../images/create_dp_select_transformations_2.png
@@ -114,9 +114,11 @@ Application Container for Facefeed will show the Known vs Unknown faces dependin
 19. Within the **Output** section, click **Add Destination**.
 20. From the dropdown list, select **Edge**.
 21. Set the Endpoint Type to **ElasticSearch**.
-22. Enter the Name as **datastream-facerecognitionlivefeed** (exactly as shown, *including case-sensititivity*).
+22. Enter the **Endpoint Name** as **datastream-facerecognitionlivefeed** (exactly as shown, *including case-sensititivity*).
 
 .. figure:: ../images/create_dp_select_output_2.png
+
+23. Click **Create**.
 
 Note: Your associated edge device list will be different.
 

@@ -13,12 +13,12 @@ The functions described in this step are a critical part of the way FaceFeed wor
 
 .. figure:: ../images/hamburger.png
 
-3. The functions we'll use have been created prior to this lab.  Before proceeding, please download the functions archive from the following link and extract it to your local computer: Functions_
+3. The functions we'll use have been created prior to this lab.  Before proceeding, please download the functions archive from the following Functions_ link and extract it to your local computer.
 
 For each of the Python functions contained in the archive, we will now create an individual function.  Repeats the following steps for each file.
 
 4. Click **Create**.
-5. Set the name of the function to the same name as the Python file, *maintaining case-sensititivity*.  For example, for the Python file **aggregatefeed.py**, set the function name to **aggregatefeed**.
+5. Set the name of the function to the same name as the Python file without the **.py** extension, *maintaining case-sensititivity*.  For example, for the Python file **aggregatefeed.py**, set the function name to **aggregatefeed**.
 6. Set the description to something meaningful.  Since these scripts are new to us, the description entered here doesn't really matter ...
 7. Set the **Project** to the **FaceFeed** project we created earlier.
 8. Set the **Language** to **Python**.

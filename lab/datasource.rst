@@ -37,10 +37,10 @@ For example (your settings will be different):
 Page 2 of the add data sources process is where we can specify device-specific settings.  For example, different camera vendors may have different URLs for the RTSP feed.
 
 12. Click **Add New Field**.
-13. Give the field a meaningful name, e.g. **video-feed-<your_initials>**.  For Jane Doe, you could use **video-feed-janed**.
+13. Give the field a meaningful name, e.g. **VideoFeed**.
 14. In the field for **RTSP URL**, enter **<video-feed-url>**, click the blue check mark button and click **Next**.
 
-**Note**: For this lab, please set **<video-feed-url>** to **/unicast**.
+**Note**: For this lab, please set **<video-feed-url>** to **unicast**.
 
 .. figure:: ../images/add_data_source_page2.png
 

@@ -21,7 +21,6 @@ Projects are created by Infrastructure Admins.
 4. Set Description to something meaningful e.g. **Application to capture and identify faces via RTSP camera feed**.
 5. Click **Add Users**.
 6. Select **your** username and click **Done**.
-7. Click **Next**.
 
 .. figure:: ../images/create_project_select_users.png
 
@@ -29,6 +28,7 @@ Projects are created by Infrastructure Admins.
 
 The following steps are where we select which objects will be part of this application. e.g. edge device etc.
 
+7. Click **Next**.
 8. Click **Add Edges** and place a checkmark next to the edge device you created earlier.
 9. Click **Done**.
 

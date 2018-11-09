@@ -12,7 +12,7 @@ The final step in the lab to deploy the FaceFeed app itself.  This is done by de
 .. figure:: ../images/hamburger.png
 
 3. Click **Create**.
-4. Enter the name of the application as **facefeed**.
+4. Enter the name of the application as **Facefeed UI**.
 5. Set the description of the FaceFeed application to something meaningful (even though it won't affect the application's operation).
 6. From the **Project** dropdown list provided, select the **FaceFeed** Project you created earlier.
 7. In the **Edge Selection** section, click the **Select Edges** button.
