@@ -36,4 +36,4 @@ Deploying the FaceFeed app is now complete.
 
 .. _Dashboard: https://iot.nutanix.com/
 .. _Functions: http://bit.ly/facefeed-functions
-.. _FaceFeed: https://raw.githubusercontent.com/nutanixdev/xi-iot-lab/master/resources/facefeed.yaml?token=AAZ1Pf7P4FmvQQJylBmyY3XXn7lMezmYks5b45_YwA%3D%3D
+.. _FaceFeed: https://raw.githubusercontent.com/nutanix/xi-iot-lab/master/resources/facefeed.yaml?token=AAZ1PUkp2-C79ND5SG1gNqbVI-CeGgYuks5b9dVLwA%3D%3D
