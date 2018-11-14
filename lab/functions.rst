@@ -1,4 +1,4 @@
-.. _functions:
+.. _functions_main:
 
 *********
 Functions
