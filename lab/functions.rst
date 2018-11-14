@@ -9,11 +9,16 @@ The FaceFeed application utilises functions within Data Pipelines to transform t
 The functions described in this step are a critical part of the way FaceFeed works and specify the "order" in which the various processing steps happen.
 
 1. Login to the Nutanix Xi IoT Dashboard_ using the credentials that have been provided for you.
+
+.. _Dashboard: https://iot.nutanix.com/
+
 2. Using the "hamburger" button, expand the **Apps and Data** section and select **Functions**.  Note that we are now using the **Apps and Data** section instead of the **Infrastructure** section used up to this point.
 
 .. figure:: ../images/hamburger.png
 
 3. The functions we'll use have been created prior to this lab.  Before proceeding, please download the functions archive from the following Functions_ link and extract it to your local computer.
+
+.. _Functions: http://bit.ly/facefeed-functions
 
 For each of the Python functions contained in the archive, we will now create an individual function.  Repeats the following steps for each file.
 
@@ -36,6 +41,3 @@ When you have completed the steps above, you will have 5 functions created.
 .. figure:: ../images/create_function_final.png
 
 Adding the Nutanix Xi IoT Functions is now complete.
-
-.. _Dashboard: https://iot.nutanix.com/
-.. _Functions: http://bit.ly/facefeed-functions
