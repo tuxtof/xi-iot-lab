@@ -18,7 +18,7 @@ The functions described in this step are a critical part of the way FaceFeed wor
 
 3. The functions we'll use have been created prior to this lab.  Before proceeding, please download the functions archive from the following Functions_ link and extract it to your local computer.
 
-.. _Functions: http://bit.ly/facefeed-functions
+.. _Functions: https://bit.ly/facefeed-functions
 
 For each of the Python functions contained in the archive, we will now create an individual function.  Repeats the following steps for each file.
 
