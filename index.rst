@@ -15,6 +15,7 @@
   :hidden:
 
   .. example/index
+  lab/groups
   lab/intro
   lab/terminology
   lab/edge

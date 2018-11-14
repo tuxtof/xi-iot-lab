@@ -7,10 +7,6 @@ Data Pipelines
 Introduction
 ------------
 
-.. raw:: html
-
-  <strong><font color="red">This step must be completed on your group's physical Edge Device only! Please do not complete this step on the virtual edge devices.</font></strong>
-
 From the **Terminology** section:
 
 A Data Pipeline is a path for data that includes input, processing, and output blocks. Enables you to process and transform captured data for further consumption or processing.
