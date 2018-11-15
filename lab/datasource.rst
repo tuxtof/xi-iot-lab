@@ -24,7 +24,10 @@ The data source is a critical component as it's the physical device providing th
 5. Select the associated edge device's name.  For this step, please only choose **your** edge device deployed in the previous step.
 6. Select the protocol as **RTSP**.
 7. Set the authentication type to **Username and Password**.
-8. Enter the provided camera's IP address.
+8. Enter the provided camera's **IP address**.
+
+**Note:** For the virtual edge devices that are not being used with "real" cameras, please use the dummy IP address **0.0.0.0**.  This ensures the edge device will not receive a live video feed and will avoid complications with resource constraints in the lab environment.
+
 9. Enter the provided camera's username.
 10. Enter the provided camera's password.
 
