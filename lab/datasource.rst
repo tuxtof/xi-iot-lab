@@ -17,7 +17,7 @@ The data source is a critical component as it's the physical device providing th
 
 2b. Option 2: From the **Dashboard** page, click **Add Data Sources** inside the **Getting Started** group.
 
-.. figure:: ../images/getting_started.png
+.. figure:: ../images/getting_started_data_sources.png
 
 3. Set the Data Source type to **Sensor**.
 4. Give your data source a meaningful name, e.g. **iot-lab-<your_initials>**.  For Jane Doe, you could use **iot-lab-janed**.

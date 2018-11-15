@@ -18,8 +18,8 @@ For the lab, you will receive 4 credential items - please note them down for use
 - Xi IoT Edge Username = 
 - Xi IoT Edge Password = 
 
-IP and Serial Info
-------------------
+IP and Serial Info - **Physical** Devices
+-----------------------------------------
 
 Below is a table of IP addressing and serial number information that must be used for the lab.
 

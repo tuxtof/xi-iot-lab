@@ -23,6 +23,8 @@ For the Nutanix Xi IoT lab to proceed, each lab attendee will configure a connec
 6. Enter the lab network's subnet mask (**255.255.255.0**).
 7. Enter the lab network's gateway (**0.0.0.0**).
 
+**Note: It is critical that the IP address and serial number information is entered correctly.  Please double-check your entry before continuing.**
+
 For example (your settings will be different):
 
 .. figure:: ../images/add_edge.png
