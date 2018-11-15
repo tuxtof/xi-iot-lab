@@ -29,9 +29,7 @@ For example (your settings will be different):
 
 8. Click Add.
 
-Adding the Nutanix Xi IoT edge device is now complete.
-
-8. To verify the edge device has been added successfully and is available for use, wait until there is a green "check mark" next to the edge device's name in the **Getting Started** group, or check for the green online symbol next to the edge device's name in the edge list.
+9. To verify the edge device has been added successfully and is available for use, wait until there is a green "check mark" next to the edge device's name in the **Getting Started** group, or check for the green online symbol next to the edge device's name in the edge list.
 
 **Note**: After adding a new edge device, it will take some time before the device is online and usable (typically 5-10 minutes).
 
