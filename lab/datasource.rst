@@ -28,8 +28,8 @@ The data source is a critical component as it's the physical device providing th
 
 **Note:** For the virtual edge devices that are not being used with "real" cameras, please use the dummy IP address **0.0.0.0**.  This ensures the edge device will not receive a live video feed and will avoid complications with resource constraints in the lab environment.
 
-9. Enter the provided camera's username.
-10. Enter the provided camera's password.
+9. Enter **root** as the camera username.
+10. Enter **nutanix4u** as the camera password.
 
 For example (your settings will be different):
 
