@@ -35,8 +35,7 @@ During part 1, you will configure the following Xi IoT components.
 - The edge device itself has been pre-staged but you will add it to your Xi IoT profile.
 - Configure a data source based on an RTSP-capable IP camera.
 - Add the Camera Type category that will logically group your edges
-- Create a connection to the container registry that holds our sample/demo application
-- Add Functions (analogous to Scripts, for the purposes of this lab).  Functions act as "steps" in the Data Pipeline.
+- Add Functions (analogous to Scripts, for the purposes of this lab).  Functions act as **steps** in the Data Pipeline.
 - Create the Data Pipeline that will process the data from our camera data source.
 - Add an application that acts as the front-end for the processed data.
 - Finally, test the deployed application to make sure it does what it is supposed.

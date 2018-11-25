@@ -14,7 +14,8 @@ Credentials for logging into Xi IoT will be provided outside this guide.
 For the lab, you will receive 4 credential items - please note them down for use throughout the lab.
 
 - Xi IoT Username = **<team-name>@xi-iot.com**
-- Xi IoT Camera password = 
+- Xi IoT Password = **<team-name>$123**
+- Xi IoT Camera password = **nutanix4u**
 - Xi IoT Edge Username = 
 - Xi IoT Edge Password = 
 
