@@ -13,23 +13,26 @@ The functions described in this step are a critical part of the way FaceFeed wor
 
 .. figure:: ../images/hamburger.png
 
-3. The functions we'll use have been created prior to this lab.  Before proceeding, please download the functions archive from the following Functions_ link and extract it to your local computer.
+The functions we'll use have been created prior to this lab and have been made available on Github.
 
-For each of the Python functions contained in the archive, we will now create an individual function.  Repeats the following steps for each file.
+For **each** of the Python functions contained in the Github repository, please follow the steps below.
 
-4. Click **Create**.
-5. Set the name of the function to the same name as the Python file without the **.py** extension, *maintaining case-sensititivity*.  For example, for the Python file **aggregatefeed.py**, set the function name to **aggregatefeed**.
-6. Set the description to something meaningful.  Since these scripts are new to us, the description entered here doesn't really matter ...
-7. Set the **Project** to the **FaceFeed** project we created earlier.
-8. Set the **Language** to **Python**.
-9. Set the **Runtime Environment** to **Tensorflow Python**.
+3. Browse to the Functions_ repository.
+4. For each file there, e.g. **aggregatefeed.py**, click the filename then click **Raw**.
+5. Copy the Python code to your clipboard or to your text editor.
+6. In the Xi IoT console, while on the **Functions** page, click **Create**
+7. Set the name of the function to the same name as the Python file without the **.py** extension, *maintaining case-sensititivity*.  For example, for the Python file **aggregatefeed.py**, set the function name to **aggregatefeed**.
+8. Set the description to something meaningful.  Since these scripts are new to us, the description entered here doesn't really matter ...
+9. Set the **Project** to the **FaceFeed** project we created earlier.
+10. Set the **Language** to **Python**.
+11. Set the **Runtime Environment** to **Tensorflow Python**.
 
 .. figure:: ../images/create_function_general.png
 
-10. Click **Next**.
-11. Click **Choose File** and browse to the appropriate Python file downloaded earlier.
-12. Click **Create**.
-13. Repeat steps 4-12 for each of the other 4 Python functions.
+12. Click **Next**.
+13. Paste the code from step 5 into the text field provided.
+14. Click **Create**.
+15. Repeat steps 3-14 for each of the other 4 Python functions.
 
 When you have completed the steps above, you will have 5 functions created.
 
@@ -38,4 +41,4 @@ When you have completed the steps above, you will have 5 functions created.
 Adding the Nutanix Xi IoT Functions is now complete.
 
 .. _Dashboard: https://iot.nutanix.com/
-.. _Functions: https://bit.ly/facefeed-functions
+.. _Functions: https://github.com/nutanix/xi-iot/tree/master/projects/facefeed/functions

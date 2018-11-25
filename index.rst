@@ -21,6 +21,7 @@
   lab/edge
   lab/category
   lab/datasource
+  lab/cloud
   lab/container_registry
   lab/project
   lab/functions
@@ -53,8 +54,8 @@ Nutanix Xi IoT Edge Devices
 
 The lab environment has been setup to include a Nutanix Cluster running the latest version of Nutanix Acropolis, along with pre-staged Edge machines.
 
-The pre-staged edge devices will be used for part 1 of today's lab, with some physical devices used for the parts 1 and 2.  Physical devices will more closely replicate the type of Edge deployment seen in real world environments.
+In additional to the virtual pre-staged Edge devices, physical Intel NUC Edge Devices have also provided for each group.  These physical edge devices will be used in part 1 and 2 of today's lab.
 
 **Pre-staged Edge Devices**
 
-Each lab attendee **pair** will be assigned a pre-staged edge device that can be used for part 1 of today's lab.  The assigned physical devices can then be used for part 2 later in the day.
+Each lab **pair** will be assigned a pre-staged edge device that can be used for part 1 of today's lab.
