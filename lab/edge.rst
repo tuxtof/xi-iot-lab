@@ -17,7 +17,11 @@ For the Nutanix Xi IoT lab to proceed, each lab pair will configure a connection
 
 .. figure:: ../images/getting_started_add_edge.png
 
-3. Give your edge device a meaningful name, e.g. **nextlabXX**.
+.. raw:: html
+
+  <strong><font color="red">Virtual Edge Device users please continue with the steps below.  Physical Edge Device users please continue at step 9.</font></strong>
+
+3. Give your edge device a meaningful name, e.g. **nextlabXX** where XX is the number assigned to you.
 4. Enter the provided edge device's serial number, as per the list provided by the presenters.  Please make sure the serial is entered **EXACTLY** as shown, including case-sensitivity.
 5. Enter the provided edge device's IP address.
 6. Enter the lab network's subnet mask (**255.255.255.0**).
@@ -33,7 +37,7 @@ For example (your settings will be different):
 
 9. To verify the edge device has been added successfully and is available for use, wait until there is a green "check mark" next to the edge device's name in the **Getting Started** group, or check for the green online symbol next to the edge device's name in the edge list.
 
-**Note**: After adding a new edge device, it will take some time before the device is online and usable (typically 5-10 minutes).
+**Note**: After onboarding a new edge device, it will take some time before the device is online and usable (typically 5-10 minutes).
 
 Adding the Nutanix Xi IoT Edge Device is now complete.
 

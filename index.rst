@@ -15,7 +15,7 @@
   :hidden:
 
   .. example/index
-  lab/groups
+  lab/teams
   lab/intro
   lab/terminology
   lab/edge
@@ -44,16 +44,3 @@ Takeaways from the labs, at a high-level, are as follows:
 - Familiarity with the components of an example IoT Pipeline
 - Experience with configuration of Nutanix Xi IoT
 - The opportunity to develop your own application based on pre-staged Runtime Environments
-
-.. _edge_details:
-
-Nutanix Xi IoT Edge Devices
-+++++++++++++++++++++++++++
-
-The lab environment has been setup to include a Nutanix Cluster running the latest version of Nutanix Acropolis, along with pre-staged Edge machines.
-
-In additional to the virtual pre-staged Edge devices that will be assigned to each **lab pair**, physical Intel NUC Edge Devices have also provided for each group.  These physical edge devices will be used in part 2 of today's lab.
-
-**Pre-staged Edge Devices**
-
-Each lab **pair** will be assigned a pre-staged edge device that can be used for part 1 of today's lab.

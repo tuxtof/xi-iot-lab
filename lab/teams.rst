@@ -1,10 +1,28 @@
 .. _groups:
 
-**********
-Lab Groups
-**********
+*********
+Lab Teams
+*********
 
-During part 1, the groups will have access to a virtual Edge Device **in pairs**.  This is to avoid resource constraints on our local lab cluster.
+Each team has been assigned the following devices.
+
+- 1x physical Edge Device running on an Intel NUC Mini PC.
+- 2x virtual Edge Devices running on a local Nutanix cluster.
+- 1x Wyse Cam v2 RTSP-capable camera that will be used as the IoT Data Source for the physical edge devices **only**.
+
+Nutanix Xi IoT Edge Devices
++++++++++++++++++++++++++++
+
+**Part 1**
+
+In part 1 of today's lab, the teams will be divided into smaller groups (two and three people, respectively).
+
+- One smaller group will use the team's **physical** Edge Device.  The physical devices have already been onboarded (relevant in the **Edge Devices** step coming up shortly).
+- The other smaller group will use a virtual Edge Device running on the local Nutanix cluster.
+
+**Part 2**
+
+In part 2 of today's lab, the entire team will use the physical edge devices for the entire session.  The virtual edge devices are not required.
 
 Credentials
 -----------
