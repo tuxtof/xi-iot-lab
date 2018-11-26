@@ -52,7 +52,7 @@ Nutanix Xi IoT Edge Devices
 
 The lab environment has been setup to include a Nutanix Cluster running the latest version of Nutanix Acropolis, along with pre-staged Edge machines.
 
-In additional to the virtual pre-staged Edge devices that will be assigned to each **lab pair**, physical Intel NUC Edge Devices have also provided for each group.  These physical edge devices will be used in part 1 and 2 of today's lab.
+In additional to the virtual pre-staged Edge devices that will be assigned to each **lab pair**, physical Intel NUC Edge Devices have also provided for each group.  These physical edge devices will be used in part 2 of today's lab.
 
 **Pre-staged Edge Devices**
 
