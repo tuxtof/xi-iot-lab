@@ -13,8 +13,8 @@ Credentials for logging into Xi IoT will be provided outside this guide.
 
 For the lab, you will receive 6 credential items - please note them down for use throughout the lab.
 
-- Xi IoT Username = **nextlabXX@xi-iot.com**
-- Xi IoT Password = **nextlabXX$123**
+- Xi IoT Username = **Please see presentation**
+- Xi IoT Password = **Please see presentation**
 - Camera username = **root**
 - Camera password = **nutanix4u**
 - WiFi SSID = **Xi_IoT_User**
