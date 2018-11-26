@@ -4,8 +4,6 @@
 Lab Groups
 **********
 
-For today's lab, the room has been divided into groups.  Each group has access to a physical Intel NUC mini PC that will be used as the IoT Edge Device during part 2
-
 During part 1, the groups will have access to a virtual Edge Device **in pairs**.  This is to avoid resource constraints on our local lab cluster.
 
 Credentials
@@ -13,16 +11,17 @@ Credentials
 
 Credentials for logging into Xi IoT will be provided outside this guide.
 
-For the lab, you will receive 4 credential items - please note them down for use throughout the lab.
+For the lab, you will receive 6 credential items - please note them down for use throughout the lab.
 
-- Xi IoT Username = **<team-name>XX@xi-iot.com**
-- Xi IoT Password = **<team-name>$123**
-- Xi IoT Camera password = **nutanix4u**
-- Xi IoT Edge Username = **admin**
-- Xi IoT Edge Password = **nutanix/4u**
+- Xi IoT Username = **nextlabXX@xi-iot.com**
+- Xi IoT Password = **nextlabXX$123**
+- Camera username = **root**
+- Camera password = **nutanix4u**
+- WiFi SSID = **Xi_IoT_User**
+- WiFi Password = **xi-iot@next**
 
-IP and Serial Info - Physical Devices
--------------------------------------
+IP and Serial Info - Physical Devices (Part 2 Only)
+---------------------------------------------------
 
 Below is a table of IP addressing and serial number information that must be used for the lab.
 

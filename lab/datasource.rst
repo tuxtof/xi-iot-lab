@@ -20,13 +20,16 @@ The data source is a critical component as it's the physical device providing th
 .. figure:: ../images/getting_started_data_sources.png
 
 3. Set the Data Source type to **Sensor**.
-4. Give your data source a meaningful name, e.g. **iot-lab-<your_initials>**.  For Jane Doe, you could use **iot-lab-janed**.
+4. Give your data source a meaningful name, e.g. **nextlabXX**.
 5. Select the associated edge device's name.  For this step, please only choose **your** edge device deployed in the previous step.
 6. Select the protocol as **RTSP**.
 7. Set the authentication type to **Username and Password**.
-8. Enter the provided camera's **IP address**.
 
-**Note:** For the virtual edge devices that are not being used with "real" cameras, please use the dummy IP address **0.0.0.0**.  This ensures the edge device will not receive a live video feed and will avoid complications with resource constraints in the lab environment.
+.. raw:: html
+
+  <strong><font color="red">**Even numbered** pairs - please use the camera IP address assigned to you.  **Odd numbered** pairs please use dummy IP address **0.0.0.0**.  Please advise the presenters if you are sitting at a table that does not have access to a camera.</font></strong>
+
+8. Enter the provided camera's **IP address**.
 
 9. Enter **root** as the camera username.
 10. Enter **nutanix4u** as the camera password.
