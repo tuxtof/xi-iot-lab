@@ -13,5 +13,6 @@ For Nutanix internal support enquiries, please email developer@nutanix.com.
 Changelog
 =========
 
+- 2018.11.26: Changes for pair vs attendee
 - 2018.11.25: Final/tested version added
 - 2018.10.23: Lab content created
