@@ -39,6 +39,7 @@ For the lab, you will receive 6 credential items - please note them down for use
 - WiFi Password = **xi-iot@next**
 
 IP and Serial Info - Virtual Devices (Part 1 Only)
+--------------------------------------------------
 
 +-------------+-------------------+---------------------+---------------------------------------+
 | Team #      | Edge IP Address   | Edge IoT VM Name    | Edge Serial #                         |
