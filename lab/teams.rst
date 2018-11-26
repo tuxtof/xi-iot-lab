@@ -7,7 +7,7 @@ Lab Teams
 Each team has been assigned the following devices.
 
 - 1x physical Edge Device running on an Intel NUC Mini PC.
-- 2x virtual Edge Devices running on a local Nutanix cluster.
+- 1x virtual Edge Device running on a local Nutanix cluster.
 - 1x Wyse Cam v2 RTSP-capable camera that will be used as the IoT Data Source for the physical edge devices **only**.
 
 Nutanix Xi IoT Edge Devices
