@@ -4,11 +4,9 @@
 Data Sources
 ************
 
-For the Nutanix Xi IoT lab to proceed, and now that your edge device is online, you can add your camera as a Data Source.
+For the Nutanix Xi IoT lab to proceed, and now that your edge device is online, you can add your Data Source.
 
 The data source is a critical component as it's the physical device providing the RTSP_ video feed that gets processed on the edge devices.
-
-**Please refer to the camera IP address that has been provided to you.  Please use only your IP address!**
 
 1. Login to the Nutanix Xi IoT Dashboard_ using the credentials that have been provided for you.
 2a. Option 1: Using the "hamburger" button, expand the **Infrastructure** section and select **Data Sources**.
@@ -24,17 +22,16 @@ The data source is a critical component as it's the physical device providing th
 5. Select the associated edge device's name.  For this step, please only choose **your** edge device deployed in the previous step.
 6. Select the protocol as **RTSP**.
 7. Set the authentication type to **Username and Password**.
+8. Enter the provided video feed's **IP address**.
 
 .. raw:: html
 
-  <strong><font color="red">**Even numbered** pairs - please use the camera IP address assigned to you.  **Odd numbered** pairs please use dummy IP address **0.0.0.0**.  Please advise the presenters if you are sitting at a table that does not have access to a camera.</font></strong>
-
-8. Enter the provided camera's **IP address**.
+  <strong><font color="red">Because we are using fake/dummy video feeds in a room this size, please enter **0.0.0.0** for the IP address</font></strong>
 
 9. Enter **root** as the camera username.
 10. Enter **nutanix4u** as the camera password.
 
-For example (your settings will be different):
+For example (your IP settings may be different):
 
 .. figure:: ../images/add_data_source_page1.png
 

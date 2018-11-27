@@ -18,8 +18,8 @@ Nutanix Xi IoT Edge Devices
 In part 1 of today's lab, the teams will be divided into smaller groups (two and three people, respectively).
 
 - One smaller group will use the team's **physical** Edge Device.  The physical devices have already been onboarded (relevant in the **Edge Devices** step coming up shortly).
-- The other smaller group will use a virtual Edge Device running on the local Nutanix cluster.
-- Each table has both a team name (Star Wars or Star Trek character) and a sheet of paper showing two numbers.  During the exercises, the 2-person group should use the even number and the 3-person group should use the odd number.  The numbers are to be used at any time a lab section references **XX** e.g. **nextlabXX**.
+- The other smaller group will use a virtual Edge Device running on the local Nutanix cluster.  Please use the virtual edge device in the table below that matches your table number.
+- Each table has both a team name (Star Wars or Star Trek character) and a sheet of paper showing two numbers.  During the exercises, the 2-person group should use the even number and the 3-person group should use the odd number.  The numbers are to be used any time a lab section references **XX** e.g. **nextlabXX**.
 
 **Part 2**
 

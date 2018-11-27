@@ -6,6 +6,10 @@ Verify FaceFeed
 
 We can now carry out a test to make sure the FaceFeed app is operating correctly.
 
+.. raw:: html
+
+  <strong><font color="red">Please keep in mind that the below test will only be partially successful for the teams, due to the use of simulated/dummy video feed IP addresses.</font></strong>
+
 1. On your local computer, browse to https://<edge_device_ip_address:8888>
 2. Login to the FaceFeed application with the username **demo** and password **facefeed**.
 
