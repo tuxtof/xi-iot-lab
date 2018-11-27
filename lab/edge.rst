@@ -21,7 +21,7 @@ For the Nutanix Xi IoT lab to proceed, each lab pair will configure a connection
 
   <strong><font color="red">Virtual Edge Device users please continue with the steps below.  Physical Edge Device users please continue at step 9.</font></strong>
 
-3. Give your edge device a meaningful name, e.g. **nextlabXX** where XX is the number assigned to you.
+3. Give your edge device a meaningful name, e.g. **nextlabXX**.
 4. Enter the provided edge device's serial number, as per the list provided by the presenters.  Please make sure the serial is entered **EXACTLY** as shown, including case-sensitivity.
 5. Enter the provided edge device's IP address.
 6. Enter the lab network's subnet mask (**255.255.255.0**).
